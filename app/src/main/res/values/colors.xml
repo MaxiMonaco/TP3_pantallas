@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Paleta del challenge (Onboarding + Login + Register), medida del Figma -->
+    <color name="auth_primary_blue">#1F41BC</color>
+    <color name="auth_input_background">#F1F3FF</color>
+    <color name="auth_icon_background">#ECECEC</color>
+    <color name="auth_text_gray">#6B7280</color>
+
+    <!-- Colores de la ilustración de Onboarding -->
+    <color name="illustration_shirt">#3D5AFE</color>
+    <color name="illustration_skin">#F3B98C</color>
+    <color name="illustration_hair">#2B2B3A</color>
+    <color name="illustration_pants">#26264D</color>
+    <color name="illustration_desk">#C9CFF7</color>
+    <color name="illustration_leaf_dark">#5B6CFF</color>
+    <color name="illustration_leaf_light">#9AA6FF</color>
+</resources>

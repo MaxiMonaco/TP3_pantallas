@@ -1,0 +1,81 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="240dp"
+    android:height="240dp"
+    android:viewportWidth="200"
+    android:viewportHeight="200">
+
+    <!-- Desk surface -->
+    <path
+        android:pathData="M20,175 L180,175 L180,182 L20,182 Z"
+        android:fillColor="#DCE1FF" />
+
+    <!-- Chair backrest -->
+    <path
+        android:pathData="M83,40 H137 A18,18 0 0 1 155,58 V152 A18,18 0 0 1 137,170 H83 A18,18 0 0 1 65,152 V58 A18,18 0 0 1 83,40 Z"
+        android:fillColor="#C9CFF7" />
+
+    <!-- Plant leaves -->
+    <path
+        android:pathData="M175,146 C170,120 172,95 178,78 C184,95 182,120 178,146 Z"
+        android:fillColor="#5B6CFF" />
+    <path
+        android:pathData="M167,148 C157,130 157,110 165,97 C170,112 170,132 170,148 Z"
+        android:fillColor="#9AA6FF" />
+    <path
+        android:pathData="M183,148 C193,130 194,111 187,99 C182,113 181,132 182,148 Z"
+        android:fillColor="#9AA6FF" />
+
+    <!-- Vase -->
+    <path
+        android:pathData="M160,145 L190,145 L184,178 L166,178 Z"
+        android:fillColor="#3D5AFE" />
+    <path
+        android:pathData="M162,156 L188,156 L186,164 L164,164 Z"
+        android:fillColor="#FFFFFF" />
+
+    <!-- Legs -->
+    <path
+        android:pathData="M85,145 C80,155 70,160 55,158 C60,168 78,175 95,170 C110,166 115,150 110,140 C105,130 92,132 85,145 Z"
+        android:fillColor="#26264D" />
+    <!-- Shoe -->
+    <path
+        android:pathData="M50,154 C46,152 40,154 40,159 C40,164 49,166 56,163 C59,160 56,156 50,154 Z"
+        android:fillColor="#161625" />
+
+    <!-- Laptop screen -->
+    <path
+        android:pathData="M92,110 L124,110 L128,138 L88,138 Z"
+        android:fillColor="#1E1E3A" />
+    <path
+        android:pathData="M99,115 L117,115 L119,132 L97,132 Z"
+        android:fillColor="#3D5AFE" />
+    <!-- Laptop base -->
+    <path
+        android:pathData="M86,138 L130,138 L134,146 L82,146 Z"
+        android:fillColor="#C9CFF7" />
+
+    <!-- Torso / shirt -->
+    <path
+        android:pathData="M78,95 C75,90 80,85 90,84 L120,84 C130,85 135,92 133,100 L130,134 C128,145 120,150 105,150 C90,150 80,146 78,138 Z"
+        android:fillColor="#3D5AFE" />
+
+    <!-- Arm to laptop -->
+    <path
+        android:pathData="M95,118 C89,127 87,134 91,140 L108,142 C112,136 110,127 105,121 Z"
+        android:fillColor="#3D5AFE" />
+
+    <!-- Neck -->
+    <path
+        android:pathData="M98,78 L109,78 L109,88 L98,88 Z"
+        android:fillColor="#F3B98C" />
+
+    <!-- Head -->
+    <path
+        android:pathData="M87,66 A16,16 0 1,0 119,66 A16,16 0 1,0 87,66 Z"
+        android:fillColor="#F3B98C" />
+
+    <!-- Hair -->
+    <path
+        android:pathData="M85,63 C83,49 92,39 104,39 C116,39 125,49 123,63 C123,56 118,53 112,54 C108,49 100,49 96,54 C90,53 85,56 85,63 Z"
+        android:fillColor="#2B2B3A" />
+</vector>

@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Test</string>
+
+    <!-- Onboarding -->
+    <string name="onboarding_title">Discover Your Dream Job here</string>
+    <string name="onboarding_subtitle">Explore all the existing job roles based on your interest and study major</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+
+    <!-- Login -->
+    <string name="login_title">Login here</string>
+    <string name="login_subtitle">Welcome back you\'ve been missed!</string>
+    <string name="forgot_password">Forgot your password?</string>
+    <string name="sign_in">Sign in</string>
+    <string name="create_new_account">Create new account</string>
+
+    <!-- Register -->
+    <string name="register_title">Create Account</string>
+    <string name="register_subtitle">Create an account so you can explore all the existing jobs</string>
+    <string name="sign_up">Sign up</string>
+    <string name="already_have_account">Already have an account</string>
+
+    <!-- Campos compartidos -->
+    <string name="field_email">Email</string>
+    <string name="field_password">Password</string>
+    <string name="field_confirm_password">Confirm Password</string>
+    <string name="or_continue_with">Or continue with</string>
+</resources>
